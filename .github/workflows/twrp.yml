@@ -15,7 +15,7 @@ on:
 env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni -b twrp-10.0-deprecated
   DEVICE: HCE600
-  DT_LINK: https://github.com/lopestom/device_chcnav_HCE600
+  DT_LINK: https://github.com/lopestom/twrp_device_chcnav_HCE600
   DT_PATH: device/chcnav/HCE600
   TARGET: recoveryimage
   TZ: Asia/manila
